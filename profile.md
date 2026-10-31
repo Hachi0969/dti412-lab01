@@ -3,7 +3,7 @@
 ## 1. Personal Information
 
 - **Full Name:** Min Swe Thein
-- **Student ID:** [Your Student ID]
+- **Student ID:** 240702403982
 - **Program:** Digital Technology Innovation
 - **Academic Year:** 3rd Year
 - **University:** Kasem Bundit University
